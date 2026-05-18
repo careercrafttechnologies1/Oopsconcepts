@@ -7,10 +7,10 @@ public class Car extends Vehicle{
         System.out.println("Car horn is po po poo po.......");
 
     }
-
-    @Override
-    void mileage() {
-        System.out.println("Car mileage is 15 km");
+//
+//    @Override
+//    void mileage() {
+//        System.out.println("Car mileage is 15 km");
 
     }
 }
