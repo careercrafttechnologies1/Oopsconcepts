@@ -3,7 +3,7 @@ package collectionimplementation;
 import java.util.Iterator;
 import java.util.Set;
 
-public class TreeSet {
+public class TreeSet{
     public static void main(String[] args) {
         Set<Integer> t = new java.util.TreeSet<>();
         t.add(23);

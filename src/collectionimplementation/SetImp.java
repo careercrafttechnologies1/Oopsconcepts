@@ -8,5 +8,6 @@ public class SetImp {
         Set<Integer> set = new HashSet<>();
         set.add(12);
         set.add(23);
+        System.out.println(set);
     }
 }
