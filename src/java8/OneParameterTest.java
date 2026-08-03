@@ -6,6 +6,6 @@ public class OneParameterTest {
         System.out.println(number * number);
         return number;
     };
-    oneParameter.Squire(7);
+    oneParameter.Square(7);
     }
 }
